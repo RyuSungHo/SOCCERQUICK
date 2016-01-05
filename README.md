@@ -1,4 +1,4 @@
-# SoccerQuick_APP
+# SOCCERQUICK
 쉽고 빠른 풋살 매칭 어플리케이션
 
 # 프로젝트 설명
